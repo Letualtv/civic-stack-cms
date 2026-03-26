@@ -67,4 +67,4 @@ npm run build
 
 ## 📜 Licencia
 
-MIT
+Este software es propietario. Todos los derechos reservados. Queda prohibida su copia, redistribución o uso sin autorización expresa del titular.

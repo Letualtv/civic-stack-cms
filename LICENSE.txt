@@ -1,0 +1,9 @@
+Civic Stack CMS
+
+Copyright (c) 2026 Letualtv
+
+Todos los derechos reservados.
+
+Este software es propiedad de su autor. Queda prohibida la reproducción, distribución, comunicación pública, transformación, puesta a disposición o cualquier otro uso total o parcial del software sin autorización expresa y por escrito del titular de los derechos.
+
+Para licencias comerciales o consultas, contactar a: letualtv@gmail.com
